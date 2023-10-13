@@ -1,0 +1,12 @@
+[{
+ "v2.py": {
+  "desc": "Adds 2D vectors"
+ },
+ "screen.py": {
+  "desc": "Adds screen width and height as W, H"
+ },
+ "screenV2.py": {
+  "desc": "Adds screen as 2D vector",
+  "deps": ["v2.py"]
+ }
+}]
